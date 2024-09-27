@@ -1,5 +1,5 @@
-# NameScan_SMB_RDP.sh
-Uso: ./NameScanSMB.sh [opciones] [archivo_de_hostnames]
+# NameScan_SMB_RDP
+Uso Linux: ./NameScanSMB.sh [archivo_de_hostnames] [opciones]
 
 Este script resuelve nombres de host a direcciones IP y verifica si los puertos 445 (SMB) y 3389 (RDP) están abiertos.
 
